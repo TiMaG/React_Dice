@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_Dice/static/css/main.1401221d.css",
+    "main.js": "/React_Dice/static/js/main.a328d56e.js",
+    "index.html": "/React_Dice/index.html",
+    "main.1401221d.css.map": "/React_Dice/static/css/main.1401221d.css.map",
+    "main.a328d56e.js.map": "/React_Dice/static/js/main.a328d56e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1401221d.css",
+    "static/js/main.a328d56e.js"
+  ]
+}
